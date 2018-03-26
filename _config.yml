@@ -4,3 +4,5 @@ theme: jekyll-theme-minimal
 title: groundlevel-utilities
 description: >
   General purpose library with reusable code for Spring projects.
+github:
+  repository_url: https://github.com/jpmsilva/groundlevel-utilities

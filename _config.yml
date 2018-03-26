@@ -1,3 +1,6 @@
 collections:
   - versions
 theme: jekyll-theme-minimal
+title: groundlevel-utilities
+description: >
+  General purpose library with reusable code for Spring projects.

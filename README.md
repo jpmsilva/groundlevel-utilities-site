@@ -1,5 +1,5 @@
-# jsystemd
+# Groundlevel utilities
 
-This is the site project for the [jsystemd](https://github.com/jpmsilva/jsystemd).
+This is the site project for the [Groundlevel utilities](https://github.com/jpmsilva/groundlevel-utilities).
 
-It contains the source that powers the [documentation site](https://jpmsilva.github.io/jsystemd-site/).
+It contains the source that powers the [documentation site](https://jpmsilva.github.io/groundlevel-utilities-site/).
